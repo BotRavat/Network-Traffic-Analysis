@@ -24,7 +24,7 @@ Step 4 : Paste the captured CSV file path in our python code to analyze the capt
 
 ![Screenshot (31)](https://user-images.githubusercontent.com/77850177/210509662-071767b1-4ac0-43db-822d-5f1399628031.png)
 
-Now we are ready to analyze captured CSV file  - We need to run our python code and output will be displayed conataining tables,graphs for analysis 
+Now we are ready to analyze captured CSV file  - We need to run our python code and output will be displayed conataining tables,graphs for analysis. 
 
 
 [NetworkTrafficAnalysis.docx](https://github.com/BotRavat/Network-Traffic-Analysis-/files/10342366/CSE_MINI_PROJECT_Report_2017054.docx)
